@@ -56,7 +56,7 @@ I solicit regular feedback during 1-1 meetings. I may ask questions such as what
 
 ## Which meetings do your students generally attend? What funding is available to attend these meetings?
 
-CHI,CSCW,AIED,UIST, Learning@Scale. Generally, we provide funding to students who are first authors on publications. If the student doesn't have a first-author publication that year, I'll support them go to one conference of their choice that year. So that each student at least goes to one conference each year.
+CHI, CSCW, AIED, UIST, Learning@Scale. Generally, we provide funding to students who are first authors on publications. If the student doesn't have a first-author publication that year, I'll support them go to one conference of their choice that year. So that each student at least goes to one conference each year.
 
 # Time Away from Campus
 
