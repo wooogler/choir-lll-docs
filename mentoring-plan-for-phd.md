@@ -56,13 +56,13 @@ I solicit regular feedback during 1-1 meetings. I may ask questions such as what
 
 ## Which meetings do your students generally attend? What funding is available to attend these meetings?
 
-CHI,CSCW,AIED,UIST, Learning@Scale. Generally, we provide funding to students who are first authors on publications. If the student doesn't have a first-author publication that year, I'll support them go to one conference of their choice that year. So that each student at least goes to one conference each year.
+CHI, CSCW, AIED, UIST, Learning@Scale. Generally, we provide funding to students who are first authors on publications. If the student doesn't have a first-author publication that year, I'll support them go to one conference of their choice that year. So that each student at least goes to one conference each year.
 
 # Time Away from Campus
 
 ## Discuss expectations regarding vacations and time away from campus and how best to plan for them. What is the time-frame for notification regarding anticipated absences?
 
-I encourage students to take vacations after a major deadline, or after a busy semester. I appreciate it if students discuss travel plans with me early on, especially if they are outside of these time periods. In general, we give students 3 weeks of vacation time in addition to holidays. For international students who may have visa complications, I'm happy to support them work remotely.
+I encourage students to take vacations after a major deadline, or after a busy semester. I appreciate it if students discuss travel plans with me early on, especially if they are outside of these time periods. In general, we give students 2 weeks of vacation time in addition to holidays. For international students who may have visa complications, I'm happy to support them work remotely.
 
 ## Are there specific standard times that students in your group generally take vacation?
 
@@ -73,5 +73,6 @@ Usually students may choose to take time off after conference deadlines, or duri
 Something I recently learn from a colleague was that he often shared his vacation photos in his team's Slack space, which might be a nudge for people to do similar things and take vacations. I haven't done very well on this in the past, but I plan to make my vacation time more visible to my students.
 
 # Additional Information
+
 Are there any additional points that you would like to share?
 This mentoring plan is work-in-progress. I'm actively seeking information and resources on how to become a better mentor. I may update this document periodically as I learn new things and strategies to support my students. If there are any questions or suggestions, please reach out to me at xwanghci@umich.edu. I also welcome discussion on these matters as well.
