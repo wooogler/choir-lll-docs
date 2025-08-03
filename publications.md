@@ -282,7 +282,3 @@
 - **Advisors:** Ken Koedinger and Carolyn Rose
 - **Additional committee members:** Jeff Bigham, Chinmay Kulkarni, Scott Klemmer
 - **Links:** [Dissertation](http://reports-archive.adm.cs.cmu.edu/anon/hcii/CMU-HCII-20-106.pdf)
-
-# Target Conferences.
-
-- ACM DIS
