@@ -62,7 +62,7 @@ CHI, CSCW, AIED, UIST, Learning@Scale. Generally, we provide funding to students
 
 ## Discuss expectations regarding vacations and time away from campus and how best to plan for them. What is the time-frame for notification regarding anticipated absences?
 
-I encourage students to take vacations after a major deadline, or after a busy semester. I appreciate it if students discuss travel plans with me early on, especially if they are outside of these time periods. In general, we give students 2 weeks of vacation time in addition to holidays. For international students who may have visa complications, I'm happy to support them work remotely.
+I encourage students to take vacations after a major deadline, or after a busy semester. I appreciate it if students discuss travel plans with me early on, especially if they are outside of these time periods. In general, we give students 3 weeks of vacation time in addition to holidays. For international students who may have visa complications, I'm happy to support them work remotely.
 
 ## Are there specific standard times that students in your group generally take vacation?
 
