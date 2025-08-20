@@ -9,3 +9,7 @@ Lifelong Learning Lab typically provides funding for first-authors of papers to 
 # Stipend and Salary Disbursement Schedule
 
 - At Lifelong Learning Lab, the disbursement schedule for stipends and salaries is as follows: Graduate Student Research Assistant (GSRA) salaries are disbursed at the end of the month. Fellowship and scholarship stipends are disbursed in the middle of the month, typically around the 20th.
+
+# Slack Workspace Membership Process
+
+- The Lifelong Learning Lab has established a process for inviting individuals to become members of its Slack workspace. This process is essential for ensuring that communication within the organization is streamlined and that only authorized members have access to workspace resources. Membership in the Slack workspace indicates a commitment to collaboration and engagement within the lab's community. It is important for all members to familiarize themselves with the guidelines and expectations associated with being part of the Slack workspace.
