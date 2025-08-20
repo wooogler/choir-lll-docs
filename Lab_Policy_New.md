@@ -5,3 +5,7 @@ Lifelong Learning Lab typically provides funding for first-authors of papers to 
 # Cognate Equivalency Procedure
 
 - To add information about the steps for cognate equivalency, follow these procedures: Students must first consult with their advisor to determine which class can be taken for equivalency. The advisor is responsible for sending an email to the CSE graduate staff at csegradstaff@umich.edu. The email should request the review and approval of the cognate equivalency case, including details about the course and the student, as well as a link to the course syllabus. The CSE staff will review the request and forward the necessary information to Rackham. Students are required to submit their official transcripts for the class to Rackham at racketranscripts@umich.edu before the equivalency request can be processed.
+
+# Stipend and Salary Disbursement Schedule
+
+- At Lifelong Learning Lab, the disbursement schedule for stipends and salaries is as follows: Graduate Student Research Assistant (GSRA) salaries are disbursed at the end of the month. Fellowship and scholarship stipends are disbursed in the middle of the month, typically around the 20th.
